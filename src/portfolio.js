@@ -224,55 +224,59 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "SQL Certification",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "I undertook a complete QSL certification course to help me work better wih databases.",
+      image: require("./assets/images/sql.png"),
+      imageAlt: "SQL Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1Y0Lh-9G031z-MRGVyIgCCACXIz1hH53r/view?usp=sharing"
         }
       ]
     },
-    {
-      title: "Google Assistant Action",
+        {
+      title: "Linux Certification",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "There is a lot I learnt from this. Linux is a really cool operating system with tons of command line features that will blow your mind.",
+      image: require("./assets/images/linux.png"),
+      imageAlt: "Linux Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1pgUJ7Om5GcK8Fz_5wDCSD_j3VmpqHSfm/view?usp=sharing"
         }
       ]
     },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+      title: "Cybersecurity Certification",
+      subtitle:
+        "Unfortunately nobody is really safe on the internet. This course came in handy.!",
+      image: require("./assets/images/cybersecurity.png"),
+      imageAlt: "Cybersecurity Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1-Joq-qc_YRczDU6CZfQjFH5TYVcErGkN/view?usp=sharing"
+        }
+      ]
+    },
+        {
+      title: "ChatGPT Certification",
+      subtitle:
+        "It goes without saying that Artificial Intelligence will soon be the core of almost all digital activities in the near future.",
+      image: require("./assets/images/chatgpt.jpg"),
+      imageAlt: "ChatGPT Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1Y0Lh-9G031z-MRGVyIgCCACXIz1hH53r/view?usp=sharing"
         }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
