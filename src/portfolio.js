@@ -284,19 +284,19 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@eugenegabriel.ke/understanding-the-difference-between-back-end-and-front-end-development-cc7b2c68234b",
+      title: "Understanding the Difference Between Back-End and Front-End Development",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "This article gives a detailed description of both front-end and back-end development categories of web and app development and gives a clear definition of their differences."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@eugenegabriel.ke/python-vs-r-which-language-is-best-for-data-science-d674fe47840b",
+      title: "Python vs. R: Which Language is Best for Data Science?",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Read along as I demystify the intricacies of both Python and R programming languages used in data analysis and shed light on which one is the best."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
