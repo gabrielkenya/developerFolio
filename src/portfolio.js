@@ -284,6 +284,12 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
+      url: "https://medium.com/@eugenegabriel.ke/how-to-start-your-programming-career-a-comprehensive-guide-8dfbcc8f3a45",
+      title: "How to Start Your Programming Career: A Comprehensive Guide",
+      description:
+        "This comprehensive guide outlines the essential steps for starting a programming career, from choosing the right language and learning the basics to building projects and preparing for job applications."
+    },
+    {
       url: "https://medium.com/@eugenegabriel.ke/understanding-the-difference-between-back-end-and-front-end-development-cc7b2c68234b",
       title: "Understanding the Difference Between Back-End and Front-End Development",
       description:
