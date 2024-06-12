@@ -233,7 +233,7 @@ const achievementSection = {
         {
           name: "View Certification 1",
           url: "https://drive.google.com/file/d/1sp9u7xCabOo7dPqzGqGwbew9HtBP_OkI/view?usp=sharing"
-        }
+        },
         {
           name: "View Certification 2",
           url: "https://drive.google.com/file/d/1fM0Qvm56X8AtRL3qb4EZH2pfCSLP45Wa/view?usp=sharing"
@@ -250,7 +250,7 @@ const achievementSection = {
         {
           name: "View Certification 1",
           url: "https://drive.google.com/file/d/1Y0Lh-9G031z-MRGVyIgCCACXIz1hH53r/view?usp=sharing"
-        }
+        },
         {
           name: "View Certification 2",
           url: "https://drive.google.com/file/d/1_P0-F9Mak5gcHaMTEd6Ga9difQq5tlvH/view?usp=sharing"
