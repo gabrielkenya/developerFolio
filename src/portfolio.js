@@ -223,6 +223,23 @@ const achievementSection = {
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
+        {
+      title: "Python Certification",
+      subtitle:
+        "To enhance my proficiency in programming and data analysis, I completed a comprehensive Python certification course.",
+      image: require("./assets/images/python.jpg"),
+      imageAlt: "Python Logo",
+      footerLink: [
+        {
+          name: "View Certification 1",
+          url: "https://drive.google.com/file/d/1sp9u7xCabOo7dPqzGqGwbew9HtBP_OkI/view?usp=sharing"
+        }
+        {
+          name: "View Certification 2",
+          url: "https://drive.google.com/file/d/1fM0Qvm56X8AtRL3qb4EZH2pfCSLP45Wa/view?usp=sharing"
+        }
+      ]
+    },
     {
       title: "SQL Certification",
       subtitle:
@@ -231,8 +248,12 @@ const achievementSection = {
       imageAlt: "SQL Logo",
       footerLink: [
         {
-          name: "View Certification",
+          name: "View Certification 1",
           url: "https://drive.google.com/file/d/1Y0Lh-9G031z-MRGVyIgCCACXIz1hH53r/view?usp=sharing"
+        }
+        {
+          name: "View Certification 2",
+          url: "https://drive.google.com/file/d/1_P0-F9Mak5gcHaMTEd6Ga9difQq5tlvH/view?usp=sharing"
         }
       ]
     },
@@ -259,6 +280,45 @@ const achievementSection = {
         {
           name: "View Certification",
           url: "https://drive.google.com/file/d/1TRD7OjI6tMTm7dRnUZTyHTzEjzJLRPRF/view?usp=sharing"
+        }
+      ]
+    },
+        {
+      title: "Microsoft Azure Certification",
+      subtitle:
+        "I enrolled in a full Microsoft Azure workshop to improve my skills in cloud computing and data management.",
+      image: require("./assets/images/microsoftazure.webp"),
+      imageAlt: "Microsoft Azure Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1bLiwNF5w1vE3C0tsI7HV2dZElX3Gsr4X/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Excel Certification",
+      subtitle:
+        "To improve my skills in data management and analysis, I completed an extensive Microsoft Excel certification course.",
+      image: require("./assets/images/excel.png"),
+      imageAlt: "Excel Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1WMak1CNkCEGnIOKRGXrBHwLzHwIJH1gr/view?usp=sharing"
+        }
+      ]
+    },
+        {
+      title: "Google Cloud Productivity Certification",
+      subtitle:
+        "I undertook a comprehensive Google Cloud productivity certification course to help me work more effectively with cloud-based tools and services.",
+      image: require("./assets/images/googlecloud.jpg"),
+      imageAlt: "Google Cloud Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/16uBKfmfBtW9MnR51oITVm0syRBym9cNe/view?usp=sharing"
         }
       ]
     },
