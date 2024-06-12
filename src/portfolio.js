@@ -129,7 +129,7 @@ const educationInfo = {
       schoolName: "Jomo Kenyatta University of Agricukture and Technology",
       logo: require("./assets/images/jkuat.jfif"),
       subHeader: "Bachelor Degree in Mathematics and Computer Science",
-      duration: "September 2018 - Present",
+      duration: "September 2022 - Present",
     }
   ]
 };
