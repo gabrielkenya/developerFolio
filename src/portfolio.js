@@ -283,6 +283,8 @@ const achievementSection = {
         }
       ]
     },
+    ],
+    [
         {
       title: "Microsoft Azure Certification",
       subtitle:
